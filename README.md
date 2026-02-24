@@ -22,18 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cinjude&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cinjude&theme=tokyonight" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 - 📧 Email: cintilmonj@gmail.com  
